@@ -24,11 +24,12 @@ const Header = () => {
     "Birthdays", 
     "Weddings",
     "Corporate Events",
-    "Baby Shower",
+    "Baby Celebrations",
     "Festivals",
-    "Decorations",
     "Catering",
-    "Photography"
+    "Photography",
+    "Entertainment",
+    "Personalized Gifts"
   ];
 
   const cities = [
